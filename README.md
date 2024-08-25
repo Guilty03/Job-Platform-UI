@@ -1,6 +1,6 @@
 # Responsive Job Platform UI
 
-🌟 Creating an Amazing Job Platform UI Design with HTML, CSS, and JavaScript! 🎨💻
+🌟 An Amazing Job Platform UI Design with HTML, CSS, and JavaScript! 🎨💻
 
 
 # Screenshot
